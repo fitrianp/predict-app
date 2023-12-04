@@ -25,8 +25,7 @@ st.markdown("""
                 Project ini merupakan hasil luaran dari penelitian yang diajukan sebagai salah satu
                 syarat untuk memperoleh gelar Sarjana Strata 1 (S1) Program Studi Teknik Informatika 
                 Universitas Trisakti oleh Fitria Nabilah Putri (2019) dengan judul <b>OPTIMASI ALGORITMA C4.5 
-                MENGGUNAKAN PARTICLE SWARM OPTIMIZATION UNTUK PENENTUAN JOB ROTATION BERDASARKAN KLASIFIKASI
-                DATA INSTRUKTUR.</b>
+                UNTUK PENENTUAN JOB ROTATION MENGGUNAKAN PARTICLE SWARM OPTIMIZATION.</b>
             </p>
             <p class="card-text" style='text-align: justify;'> 
                 Dimana, lokasi penelitian ini di PT United Tractors Tbk dengan menganalisis permasalahan terkait pemerataan beban kerja instruktur.
