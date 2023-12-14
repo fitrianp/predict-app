@@ -126,7 +126,7 @@ sniffio==1.2.0
 soupsieve==2.3.2.post1
 stack-data==0.2.0
 statsmodels==0.14.0
-streamlit==1.22.0
+streamlit==1.29.0
 streamlit-option-menu==0.3.4
 tenacity==8.0.1
 termcolor==1.1.0
